@@ -1,0 +1,17 @@
+The Shawshank Redemption#1994#director#Science fiction#none#false#1#0#0.0#0.0#
+The Godfather#1972#director#Science fiction#none#true#5#0#0.0#0.0# 
+The Godfather: Part II#1974#director#Science Fiction#none#true#5#0#0.0#0.0#
+Pulp Fiction#1994#director#Science fiction#none#true#4#1#7.0#1.0#
+Inception#2017#director#Science Fiction#none#true#3#2#2.0#1.0#
+One Flew Over the Cuckoo's Nest#1975#director#Animation#Stop-motion animation#true#4#0#0.0#0.0#
+The Dark Knight#2008#director#Science Fiction#none#true#5#0#0.0#0.0#
+Star Wars: Episode V - The Empire Strikes Back#1980#director#Animation#Clay animation.#true#5#0#0.0#0.0#
+The Lord of the Rings: The Return of the King#2003#director#Animation#2D animation#true#5#0#0.0#0.0#
+Shichinin no samurai#1954#director#Animation#By Computer#true#5#0#0.0#0.0# 
+Goodfellas#1990#director#Animation#Stop-motion#false#1#0#0.0#0.0#
+Casablanca#1942#director#Science fiction#none#true#5#0#0.0#0.0# 
+Cidade de Deus#2002#director#Science Fiction#none#true#6#0#0.0#0.0#
+El se;or de los ajillos: The Fellowship of the Ring#2001#director#Science Fiction#none#true#5#0#0.0#0.0#
+Rear Window#1954#director#Science Fiction#none#true#5#0#4.0#1.0#
+para dansar la bamba#2016#Alfredo#Animation#Traditional#true#3#0#0.0#0.0#
+casablanca#2020#gftgtgt#Science Fiction#none#true#5#0#0.0#0.0#
